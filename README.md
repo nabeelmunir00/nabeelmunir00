@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there!<br>My name is Nabeel Munir<br>I am Full Stack Developer<br>
+Hello there!<br>My name is Nabeel Munir<br>I am Full Stack Developer<br>
 
 
 # 💻 Tech Stack:
