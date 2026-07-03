@@ -36,15 +36,6 @@ I'm a **Full Stack Developer** and **AI Engineer** who loves turning ideas into 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<br>
-
-## 📊 GitHub Stats
-
-![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelmunir00&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelmunir00&layout=compact&theme=radical)
-
-<br>
 
 ## 🌐 Connect With Me
 
